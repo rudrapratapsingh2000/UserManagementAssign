@@ -32,7 +32,12 @@ Created a simple application using Spring Initializer With required depencdencie
         getAllUser
         updateUser
         deleteUser  
-    
+* ### Repository
+       getUsers
+* ### Cofiguration
+  #### BeanManager
+      getInitializedList       
+
 ## Data Structure
 * String
 * int 
